@@ -1,0 +1,2 @@
+[workspace]
+members = ["aquestalk-rs", "aqtktest"]
